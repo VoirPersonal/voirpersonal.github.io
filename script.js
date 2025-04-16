@@ -1,10 +1,10 @@
 const texts = [
-  "Halooo piyaa! 👋, selamattt ulangg tahunn!!",
-  "Semoga piyaa selalu mendapatkan kebahagiaan 🤗",
-  "Semoga piyaa selalu dimudahkan dalam menjalani semua masalah yang dihadapi! ☺️",
-  "pikrii sadar... selama ini sering menyia-nyiakan kehadiran piyaa yang tulus 😔",
+  "Halooo piyaa!!, selamattt ulangg tahunn!!",
+  "Semoga piyaa selalu mendapatkan kebahagiaan",
+  "Semoga piyaa selalu dimudahkan dalam menjalani semua masalah yang dihadapi!",
+  "pikrii sadar... selama ini sering menyia-nyiakan kehadiran piyaa yang tulus",
   "pikrii menyesal telah gagal menjadi tempat piyaa berlabuh...",
-  "kinii, pikrii memilikii sebuah harapan kecill 🤔",
+  "kinii, pikrii memilikii sebuah harapan kecill",
   "maukahh piyaaa melanjutkan menulis bersamaa tentang cerita kita lagi?"
 ];
 
