@@ -1,11 +1,11 @@
 const texts = [
-  "Hai Piyaa, selamat ulang tahun yaa...",
-  "Semoga Piyaa selalu mendapatkan kebahagiaan...",
-  "Semoga Piyaa diberi kemudahan dalam menjalani semua masalah yang dihadapi!",
-  "Pikri sadar... selama ini sering menyia-nyiakan kehadiranmu yang tulus...",
-  "Pikri menyesal telah gagal menjadi tempatmu berlabuh...",
-  "Kini, hanya ada satu harapan kecil: kita bisa mencoba lagi...",
-  "Maukah Piyaa... memberi satu kesempatan kecil untuk kita kembali memulai dari awal?"
+  "Halooo piyaa! 👋, selamattt ulangg tahunn!!",
+  "Semoga piyaa selalu mendapatkan kebahagiaan 🤗",
+  "Semoga piyaa selalu dimudahkan dalam menjalani semua masalah yang dihadapi! ☺️",
+  "pikrii sadar... selama ini sering menyia-nyiakan kehadiran piyaa yang tulus 😔",
+  "pikrii menyesal telah gagal menjadi tempat piyaa berlabuh...",
+  "kinii, pikrii memilikii sebuah harapan kecill 🤔",
+  "maukahh piyaaa melanjutkan menulis bersamaa tentang cerita kita lagi?"
 ];
 
 const photos = [
